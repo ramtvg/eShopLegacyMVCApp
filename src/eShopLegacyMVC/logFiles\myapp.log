@@ -1,0 +1,30 @@
+2020-06-23 17:03:47,557 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.MvcApplication - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+WebApplication_BeginRequest
+
+2020-06-23 17:03:47,704 [Thread Pool Worker] (null) INFO eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+Now loading... /Catalog/Index?pageSize=10&pageIndex=0
+
+2020-06-23 17:03:48,024 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+Now disposing
+
+2020-06-23 17:03:48,077 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+Now disposing
+
+2020-06-23 17:03:48,172 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.MvcApplication - /favicon.ico, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+WebApplication_BeginRequest
+
+2020-06-23 17:14:13,964 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.MvcApplication - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+WebApplication_BeginRequest
+
+2020-06-23 17:14:14,124 [Thread Pool Worker] (null) INFO eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+Now loading... /Catalog/Index?pageSize=10&pageIndex=0
+
+2020-06-23 17:14:14,466 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+Now disposing
+
+2020-06-23 17:14:14,517 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+Now disposing
+
+2020-06-23 17:14:14,603 [Thread Pool Worker] (null) DEBUG eShopLegacyMVC.MvcApplication - /favicon.ico, Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:68.0) Gecko/20100101 Firefox/68.0
+WebApplication_BeginRequest
+
